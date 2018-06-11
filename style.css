@@ -3,3 +3,9 @@ body {
     background-color: black;
     color: white;
 }
+
+iframe {
+    position: absolute;
+    height: 100%;
+    border: none
+}

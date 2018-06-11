@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "LambdaCD Sidebar Extension",
-  "description": "A LambdaCD addon for the Opera sidebar",
+  "name": "idealo Sidebar Extension",
+  "description": "An idealo addon for the Opera sidebar",
   "version": "1.0",
   "background": {
     "scripts": ["background.js"]
@@ -11,7 +11,7 @@
   "permissions": ["tabs"],
   "sidebar_action": {
     "default_icon": "icon.png",
-    "default_title": "LambdaCD",
+    "default_title": "idealo",
     "default_panel": "panel.html"
   }
 }
